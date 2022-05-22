@@ -1,1 +1,1 @@
-# School-Projects
+This repository is mean't to display my school projects during my CS Classes, CSE 13s(Intro to C Programming). CSE 101(Intro to Data Structures and Algorithims), and CSE 150(Intro to Computer Networks)
